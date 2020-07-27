@@ -1,0 +1,71 @@
+h1.a {
+    text-align: center;
+    font-size: 600%;
+  }
+  
+
+.image1 {
+    position: absolute;
+    top: 70%;
+}
+
+
+
+
+.button3 {
+    background-color: #138392;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  /*text-align: center;*/
+  text-decoration: none;
+  display: inline-block;
+  font-size: 46px;
+  margin: 4px 2px;
+  cursor: pointer;
+  left: 650px;
+  position: absolute;
+  top: 40%;
+    /*left: 650px;*/
+}
+.button3:hover{
+    background: #383; 
+}
+
+
+
+.button4 {
+    background-color: #138392;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 46px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+    left: 1000px;
+    top: 40%;
+}
+.button4:hover{
+    background: #383; 
+ }
+
+.spin {
+    position: absolute;
+  left: 660px;
+  top: 405px;
+  background: #383; 
+}
+
+.spin2 {
+    position: absolute;
+  left: 1010px;
+  top: 405px;
+  background: #383; 
+}
+
+
+
